@@ -382,7 +382,9 @@ While this exercise is obviously very rough, and I had to intervene in some part
 Disclaimer
 ----------
 
-While this is new to me, I am aware that the field of automatic theorem proving has existed for a long time, and it is very likely that everything that I wrote here has already been considered and/or is being done currently. I would love to meet people who are working on this sort of stuff, because I truly believe that this is the most important thing humanity should be investing in right now. Here is a relevant link:
+While this is new to me, I am aware that the field of automatic theorem proving has existed for a long time, and it is very likely that everything that I wrote here has already been considered and/or is being done currently. I would love to meet people who are working on this sort of stuff, because I truly believe that this is the most important thing humanity should be investing in right now. Here are relevant links:
+
+- https://openai.com/blog/formal-math/
 
 - https://arxiv.org/pdf/2210.11610.pdf
 
