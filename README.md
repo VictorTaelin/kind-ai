@@ -6,7 +6,7 @@ For some time, I have been discussing the hypothetical integration of AI with pr
   2. GPT (the AI) thinks about your specification and then writes a program for you.
   3. GPT is asked to prove that its implementation is correct.
   4. If it is incorrect, it is asked to determine what is wrong and fix it.
-  5. - If it is correct, the result is shown to the programmer.
+  5. If it is correct, the result is shown to the programmer.
 
 The crucial step here is step 3. This is where GPT typically fails, in verifying the correctness of its output. This is also the main reason why we can't ask GPT to build large software, as errors will accumulate and prevent all parts from fitting together to form a working project that compiles. But there is a solution to this problem: a proof checker. With its help, we can identify incorrect output and ask GPT to fix it, in an automated back-and-forth process that will ultimately result in the correct program. By repeating this process enough times, we can generate arbitrarily large, correct software automatically from a prompt -- and I don't think I need to explain how revolutionary that would be. To fully understand the idea, you first need to understand what a formal proof is.
 
