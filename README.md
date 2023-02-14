@@ -87,8 +87,7 @@ function not(bool) {
 Which is perfectly correct! But if we request something more **specific**, like:
 
 ```
-Write a JavaScript function that, given a string, returns the index of a char
-surrounded by brackets:
+Write a JavaScript function that, given a string, returns a single-char word:
 ```
 
 GPT-3 will [promptly answer](https://platform.openai.com/playground/p/iYZGZRswIlyohEZzvCkuCKKB?model=text-davinci-003):
